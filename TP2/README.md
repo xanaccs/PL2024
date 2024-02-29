@@ -1,4 +1,4 @@
-# TP2
+# TP2: Conversor de MD para HTML
 
 ## Alexandra Santos, a94523
 
@@ -15,4 +15,4 @@ O programa é um conversor de lista Markdown para HTML. Ele lê um arquivo de te
 
 Para correr o programa:
 
-python3 tpc2.py
+cat exemplo.txt | python3 tpc2.py
